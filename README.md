@@ -15,4 +15,3 @@
 * 🚗 Currently responsible for servers and networking at eGaming industry.
 * 🇵🇱 From Poland
 * 😁 Nice to meet you!
-Here are some ideas to get you started:
