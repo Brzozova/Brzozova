@@ -1,16 +1,18 @@
-### Hi there 👋
+<p align="center">
+<img src="https://github.com/Brzozova/Brzozova/blob/master/brzozovmatrix.png" width="410" alt="Me" align="right" />
+</p>
 
-<!--
-**Brzozova/Brzozova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello there! I'm Kate.
 
+<p align="left">
+<a href="https://www.linkedin.com/in/katarinabrzozowska/">
+<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
+<a href="https://www.twitch.tv/timXD">
+<img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
+</p>
+
+* 📱 SysOps, Linux Admin, Networking Girl.
+* 🚗 Currently responsible for servers and networking at eGaming industry.
+* 🇵🇱 From Poland
+* 😁 Nice to meet you!
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
