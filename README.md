@@ -7,9 +7,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/katarinabrzozowska/">
 <img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a> 
-<a href="https://www.twitch.tv/timXD">
-<img src="https://img.shields.io/badge/-Twitch-%239146FF" alt="Twitch" /></a> 
-</p>
 
 * 📱 SysOps, Linux Admin, Networking Girl.
 * 🚗 Currently responsible for servers and networking at eGaming industry.
