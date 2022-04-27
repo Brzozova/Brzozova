@@ -4,7 +4,11 @@
 
 # Hello there! I'm Kate.
 
-* 📱 SysOps, Linux Admin, Networking Girl.
-* 🚗 Currently responsible for servers and networking at eGaming industry.
+<img src="https://tryhackme-badges.s3.amazonaws.com/Brzozova.png" alt="TryHackMe">
+
+* 📱 SysOps, DevOps, Linux & Network Admin, Ethical Hacker.
 * 🇵🇱 From Poland
 * 😁 Nice to meet you!
+
+---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
