@@ -26,7 +26,7 @@
 </div>
 
 ---
-### 🏆 Top 7% in TryHackMe ranking
+### 🏆 Top 4% in TryHackMe ranking
 <img src="https://tryhackme-badges.s3.amazonaws.com/Brzozova.png" alt="TryHackMe">
 
 
