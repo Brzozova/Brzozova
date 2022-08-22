@@ -6,7 +6,6 @@
 
 * 🌐 Infrastructure management in gaming industry
 * 💭 SysOps, DevOps, Cloud Engieer, Network & Linux Admin
-* 👩🏻‍💻 Ethical Hacker playing CTFs
 * 🇵🇱 From Poland
 * 😁 Nice to meet you!
 
@@ -26,7 +25,7 @@
 </div>
 
 ---
-### 🏆 Top 4% in TryHackMe ranking
+### 🏆 Top 3% in TryHackMe ranking
 <img src="https://tryhackme-badges.s3.amazonaws.com/Brzozova.png" alt="TryHackMe">
 
 
