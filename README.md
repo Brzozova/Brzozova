@@ -4,8 +4,8 @@
 
 # Hello there! I'm Kate.
 
-* 🌐 Infrastructure management in gaming industry
-* 💭 SysOps, DevOps, Cloud Engieer, Network & Linux Admin
+* 🌐 IT Infrastructure management in gaming industry
+* 💭 DevOps, Cloud Engineer, Network & Linux Admin, Kubernetes Admin
 * 🇵🇱 From Poland
 * 😁 Nice to meet you!
 
@@ -25,7 +25,7 @@
 </div>
 
 ---
-### 🏆 Top 3% in TryHackMe ranking
+### 🏆 Top 2% in TryHackMe ranking
 <img src="https://tryhackme-badges.s3.amazonaws.com/Brzozova.png" alt="TryHackMe">
 
 
