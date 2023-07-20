@@ -4,8 +4,8 @@
 
 # Hello there! I'm Kate.
 
-* 🌐 IT Infrastructure management in gaming industry
-* 💭 DevOps, Cloud Engineer, Network & Linux Admin, Kubernetes Admin
+* 🌐 DevSecOps Engineer - securing IT infrastructure in a Swedish company
+* 💭 DevSecOps, SysOps, Cloud Engineer, Network & Linux Admin
 * 🇵🇱 From Poland
 * 😁 Nice to meet you!
 
