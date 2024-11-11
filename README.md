@@ -4,8 +4,8 @@
 
 # Hello there! I'm Kate.
 
-* 🌐 DevSecOps Engineer - securing IT infrastructure in a Swedish company
-* 💭 DevSecOps, SysOps, Cloud Engineer, Network & Linux Admin
+* 🌐 Currently: DevOps/DevSecOps Engineer
+* 💭 Previously: SysOps, Cloud Engineer, Linux Admin
 * 🇵🇱 From Poland
 * 😁 Nice to meet you!
 
